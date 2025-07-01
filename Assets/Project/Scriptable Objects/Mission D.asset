@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ea676965e96682468dffec79a973015, type: 3}
+  m_Name: Mission D
+  m_EditorClassIdentifier: 
+  <NameMission>k__BackingField: Mission D
+  <DelayStart>k__BackingField: 0
+  <PreviousMission>k__BackingField: {fileID: 0}
+  <NextMission>k__BackingField: {fileID: 11400000, guid: fc42ba15051fc07459fbf2e35ce88f8f, type: 2}
+  OnStartedShow:
+    m_PersistentCalls:
+      m_Calls: []
+  OnMissionPointReachedShow:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFinishedShow:
+    m_PersistentCalls:
+      m_Calls: []
